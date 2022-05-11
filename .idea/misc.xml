@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.5364102564102564" />
+        <entry key="app/src/main/res/layout/activity_diyview_gallery.xml" value="0.2078804347826087" />
+        <entry key="app/src/main/res/layout/activity_geo_quiz.xml" value="0.19072948328267478" />
+        <entry key="app/src/main/res/layout/activity_invalid_text_view.xml" value="0.4841485507246377" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.23641304347826086" />
+        <entry key="app/src/main/res/layout/activity_movable_view.xml" value="0.2391304347826087" />
+        <entry key="app/src/main/res/layout/activity_rx_java.xml" value="0.21693840579710144" />
+        <entry key="app/src/main/res/layout/activity_system_view_extend.xml" value="0.2078804347826087" />
+        <entry key="app/src/main/res/layout/activity_system_view_extended.xml" value="0.2078804347826087" />
+        <entry key="app/src/main/res/layout/activity_tab_layout_test.xml" value="0.23641304347826086" />
+        <entry key="app/src/main/res/layout/activity_text_input_layout_test.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/view_customtitle.xml" value="0.47780797101449274" />
+        <entry key="app/src/main/res/xml/network_security_config.xml" value="0.10677083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
